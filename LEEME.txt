@@ -1,0 +1,16 @@
+DERECHO INFORMATICO - HONDURAS
+
+Este paquete contiene el prototipo web de Derecho Informatico.
+
+PARA ABRIRLO:
+1. Extrae el archivo ZIP.
+2. Abre la carpeta Derecho_Informatico.
+3. Toca o haz doble clic en index.html.
+
+PARA PUBLICARLO EN GITHUB PAGES:
+1. Crea un repositorio publico en GitHub.
+2. Sube index.html (y este archivo si deseas).
+3. En Settings > Pages, selecciona Deploy from a branch.
+4. Elige la rama main y la carpeta /(root), y guarda.
+
+NOTA: Es un prototipo local. No incluye autenticacion real, servidor, base de datos compartida ni actualizaciones automaticas.
